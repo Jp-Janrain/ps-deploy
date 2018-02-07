@@ -1,0 +1,6 @@
+from elasticbeanstalk import export_service
+
+
+if __name__ == "__main__":
+    export_service.main()
+
